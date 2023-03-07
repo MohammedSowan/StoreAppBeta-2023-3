@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006244052803",
+    "firebase_url": "https://fir-8a6dd-default-rtdb.firebaseio.com",
+    "project_id": "fir-8a6dd",
+    "storage_bucket": "fir-8a6dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006244052803:android:f6f5336ddac7dfd71b39f6",
+        "android_client_info": {
+          "package_name": "com.example.storeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006244052803-36k00cq1b280a4l8qnnp05gpc0hnk8qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2sL0wkCiK0Xdj-qwnoqmesC3IuFSjJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006244052803-36k00cq1b280a4l8qnnp05gpc0hnk8qm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1006244052803-mf38ap6t20p5n2a9lgqv2149hst9vhhq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "yes.NoteAppTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="ראשי"/>
+        />
+
+    <item
+        android:id="@+id/cartFragment"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="עגלה"/>
+    />
+
+    <item
+        android:id="@+id/favsFragment"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="אהוב"/>
+    />
+
+</menu>
